@@ -1,7 +1,7 @@
 # Smooth_Scroll
 ## Vanilla JS
 ### Javascript puro
- - Simple animação utilizando Javascript puro
+ - Simples animação utilizando Javascript puro
  - Manipulação de DOM
  - Tecnologias utilizadas Html, Css e JS
  - Neste projeto foi aprendido a usar DOM para manipular a animação.
